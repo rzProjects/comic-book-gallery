@@ -1,0 +1,8 @@
+/Users/brandon/Desktop/comic-book-gallery/ComicBookGallery/bin/Debug/netcoreapp1.1/comic-book-tests.deps.json
+/Users/brandon/Desktop/comic-book-gallery/ComicBookGallery/bin/Debug/netcoreapp1.1/comic-book-tests.runtimeconfig.json
+/Users/brandon/Desktop/comic-book-gallery/ComicBookGallery/bin/Debug/netcoreapp1.1/comic-book-tests.runtimeconfig.dev.json
+/Users/brandon/Desktop/comic-book-gallery/ComicBookGallery/bin/Debug/netcoreapp1.1/comic-book-tests.dll
+/Users/brandon/Desktop/comic-book-gallery/ComicBookGallery/bin/Debug/netcoreapp1.1/comic-book-tests.pdb
+/Users/brandon/Desktop/comic-book-gallery/ComicBookGallery/obj/Debug/netcoreapp1.1/comic-book-tests.AssemblyInfo.cs
+/Users/brandon/Desktop/comic-book-gallery/ComicBookGallery/obj/Debug/netcoreapp1.1/comic-book-tests.dll
+/Users/brandon/Desktop/comic-book-gallery/ComicBookGallery/obj/Debug/netcoreapp1.1/comic-book-tests.pdb
